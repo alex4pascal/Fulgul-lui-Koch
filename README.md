@@ -15,3 +15,5 @@ Funcția generateImage() este responsabilă cu desenarea efectivă a fractalului
 Funcția recursivă paint(len, it) desenează un mic triunghi echilateral la poziția curentă și, dacă nu s-a atins nivelul maxim, împarte segmentul în trei părți. Pentru fiecare dintre ele, se aplică transformări de poziționare și rotație astfel încât să respecte regula generării Fulgului lui Koch: o secțiune centrală "ieșită în afară" sub forma unui colț.
 
 La final, desenul este salvat ca imagine .png.
+
+https://editor.p5js.org/alex.raileanu04/sketches/_MIrYSadm
